@@ -1,0 +1,8 @@
+Flight No.,Date,Time,Version Booster,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+14,"10 January 2015, 09:47 [ 67",],F9 v1.1,Cape Canaveral,SpaceX CRS-5,,LEO,NASA,Success,Failure(drone ship)
+15,"11 February 2015, 23:03 [ 72",],F9 v1.1,Cape Canaveral,DSCOVR,,HEO,USAF,Success,Controlled(ocean)[d]
+16,"2 March 2015, 03:50 [ 21 ] [ 76",],F9 v1.1,Cape Canaveral,ABS-3A,,GTO,ABS,Success,No attempt[77]
+17,"14 April 2015, 20:10 [ 21",],F9 v1.1,Cape Canaveral,SpaceX CRS-6,,LEO,NASA,Success,Failure[83](drone ship)
+18,"27 April 2015, 23:03 [ 86",],F9 v1.1,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,,GTO,Turkmenistan NationalSpace Agency[88],Success,No attempt[89]
+19,"28 June 2015, 14:21 [ 21 ] [ 91",],F9 v1.1,Cape Canaveral,SpaceX CRS-7,,LEO,NASA,Failure,Precluded[94](drone ship)
+20,"22 December 2015, 01:29 [ 97",],F9 FT,Cape Canaveral,Orbcomm-OG2,,LEO,Orbcomm,Success,Success[99](ground pad)
